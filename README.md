@@ -6,7 +6,10 @@ I am a skilled and experienced web and mobile developer with more than 7 years o
 
 
 ## 🛠 Skills
-Backend : Node, PHP, Laravel, Codeigniter, WordPress, Shopify and Python.
+[![](https://img.shields.io/badge/Backend-%20languages-red)]()
+Node, PHP, Laravel, Codeigniter, WordPress, Shopify and Python.
+
+[![](https://img.shields.io/badge/Frontend-%20languages-blue)]() 
 Frontend : React, Vue, Angular, Typescript, Bootstrap,
 Html/Css/Javascript/Jquery.
 
@@ -31,7 +34,9 @@ Best regards.
 I have worked with the following companies:
 
 - Miracle Nutritional Products LLC
+
 website frontend and backend developer(Feb 2019 ~ Mar 2020)
 
 - Roxlogic IT Solutions, UAB
+
 CRM, website developer(Dec 2021 ~ May 2022)
