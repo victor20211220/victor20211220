@@ -10,7 +10,7 @@ I am a skilled and experienced web and mobile developer with more than 7 years o
 Node, PHP, Laravel, Codeigniter, WordPress, Shopify and Python.
 
 [![](https://img.shields.io/badge/Frontend-%20languages-blue)]() 
-Frontend : React, Vue, Angular, Typescript, Bootstrap,
+React, Vue, Angular, Typescript, Bootstrap,
 Html/Css/Javascript/Jquery.
 
 
