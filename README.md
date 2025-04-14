@@ -1,5 +1,5 @@
 
-# Software Engineer | Web | Mobile Developer from Ukraine
+# Software Engineer | Web | Mobile Developer
 
 Hello everyone.
 I am a skilled and experienced web and mobile developer with more than 7 years of experience in the field of big and small online business development.
