@@ -25,9 +25,6 @@ Best regards.
 
 
 
-## 🔗 Links
-[![profile](https://img.shields.io/badge/profile-freelancer-blue)](https://www.freelancer.com/u/markmarkkutsenko/)
-
 
 ## Employment History
 
